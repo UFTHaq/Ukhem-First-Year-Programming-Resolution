@@ -5,4 +5,5 @@ UFTHaq Resolution
 - Menyelesaikan Kursus Udemy [The Web Developer Bootcamp 2022] by Colt Steele. 64 Jam.
   - Menyelesaikan kursus diatas mulai dari 17 Agustus 2022 harus selesai sebelum 17 Desember 2022.
   
-- Melanjutkan render Project NFT.
+- Melanjutkan Render Project NFT.
+  - Selesai Pada 15 Juli
